@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on technologies like React Native, ReactJS and NextJS.
-- 🌱 I’m currently learning NodeJS.
+- 🔭 I’m working on technologies like React Native, ReactJS and NextJS.
+- 🌱 I’m currently trying out Deno for a side project.
+- 📫 How to reach me: https://www.linkedin.com/in/aniket-dalvi-5a978361/
 <!--
 **aniket-dalvi/aniket-dalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
