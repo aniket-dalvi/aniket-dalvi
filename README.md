@@ -1,35 +1,43 @@
-# Hi there 👋 I'm Aniket
+# Hi, I'm Aniket Dalvi 👋
 
-### 🔥 About Me
-I'm a passionate Full-Stack Developer with extensive experience building **cross-platform mobile applications** and **responsive web apps** using:
+### Senior Mobile Engineer | React Native | TypeScript | React & Next.js
 
-- **React Native**
-- **React.js**
-- **Next.js**
+I build cross-platform mobile applications and web experiences, with a focus on performance, maintainability, native integrations, and reliable release workflows.
 
-Currently diving deeper into server-side and backend technologies with:
-- **Node.js**
-- **Deno**
+My experience includes production mobile applications, mobile performance optimization, API integrations, and CI/CD automation.
 
-I love creating clean, maintainable code and learning new tools that help deliver better products.
+### 🛠️ Technical Skills
 
-### 🚀 What I Build
+- **Mobile:** React Native, iOS, Android, Native Modules
+- **Languages:** JavaScript, TypeScript, Swift, Kotlin/Java
+- **Web:** React, Next.js
+- **State & Data:** Redux, Context API, GraphQL, REST APIs
+- **Backend:** Node.js, Deno
+- **Tools & Delivery:** Git, Firebase, Jenkins, App Store Connect, Google Play Console
 
-- Mobile apps (iOS & Android) with React Native
-- Scalable web applications
-- Full-stack projects with SSR/SSG using Next.js
-- APIs & backend services with Node.js/Deno
-<!--
-**aniket-dalvi/aniket-dalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Selected Engineering Work
 
-Here are some ideas to get you started:
+**Mobile Performance Optimization**
+- Cache-first architecture and image-loading optimization.
+- On-demand data fetching and reduced initial payloads.
+- Focus on rendering performance and efficient network usage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cross-Platform Mobile Development**
+- Reusable React Native components.
+- Native platform integrations and API-driven features.
+- iOS and Android release workflows.
+
+**Developer Productivity**
+- CI/CD pipelines and automated delivery workflows.
+- OTA update workflows where appropriate.
+- Maintainable project structure and reusable engineering patterns.
+
+### 📌 Projects
+
+Explore my repositories for React Native components, mobile applications, and supporting APIs.
+
+[GitHub Repositories](https://github.com/aniket-dalvi?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/aniket-dalvi-5a978361/)
+
+### 🤝 Connect
+
+I'm interested in discussing mobile engineering, React Native architecture, performance optimization, and developer tooling.
